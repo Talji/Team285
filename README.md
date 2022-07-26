@@ -128,64 +128,104 @@ Tribute to games/developers
 
 ## 5. Story and Narrative
 5.1. Back story
+
 5.2. Plot elements
+
 5.3. Game story progression
+
 5.4. Cut scenes -- descriptions include the actors, the setting, and the storyboard or script.
 
 ## 6. Game World
 6.1. General look and feel of world Fantasy
+
 6.2. Areas
+
 6.2.1. General description and physical characteristics
+
 6.2.2. How relate to the rest of the world
+
 6.2.2.1. What levels use it
+
 6.2.2.2. Connections to other areas
 
 ## 7. Characters.
 7.1. For each character
+
 7.1.1. Back story
+
 Protagonist:
+
 Antagonist:
+
 Supporting Character (Master):
 
 7.1.2. Personality
+
 7.1.3. Appearance
+
 7.1.4. Abilities
+
 7.1.5. Relevance to the story
+
 7.1.6. Relationship to other characters
+
 7.2. Artificial Intelligence Use in Opponent and Enemy
+
 7.3. Non-combat and Friendly Characters
+
 
 ## 8. Levels
 Different universes have different mechanic & denv -> enemies/reactive env
 It is a systematic game, which means the enemies and env (entities) have perceptions (inputs) of the player and each other, and they can react (outputs) to each other, so that the systems can merge and interact -> immersion & experience uniqueness ↑
-Game systems are aware of each other and able to interact under rules; different entities have their own scripted actions/reactions, and those are rules that the player can use for their own benefits. Entities get counters and able to counter
+
+Game systems are aware of each other and able to interact under rules; different entities have their own scripted actions/reactions, and those are rules that the player can use for their own benefits. Entities get counters and able to counter 
+
 Player can make interesting plans, indirect interaction is allowed and percevable (traps, create ideal env to fight/usage of the ability) -> can complete the levels in various ways -> replayability & fun
+
 Environment damagable/their own mechanics: gravity, physics, means of attacks, weaknesses, strengths 
+
 Entities do not just listen to specific object but input types; they should have their own purpose and corresponding behaviors 
 Therefore: level design should be giving the player a goal and not telling them how to achieve it, provides hints and let them discover their own way to achieve it (open areas, lots of entities can help -> make plans)
+
 Levels are designed to force player to keep adapting and have a sense of crisis that they can die easily if they did not play strategically and understand the mechanics in different levels
+
 Connect to provide verisimilitude (increase in belivability)
 For example: enemies will pray for power/sacrifice in shrines that is full of interactable statues & traps (the gods they believed in were ancient alien civilizations
+
 8.1. Training Level
+
 8.2. For each level
+
 8.2.1. Synopsis
+
 8.2.2. Required introductory material and how it is provided
+
 8.2.3. Objectives
+
 Clear enemies, control the area, unlock lore
 
 
 8.2.4. Details of what happens in the level
+
 8.2.4.1. Map
+
 8.2.4.2. Critical path that the player needs to take
+
 8.2.4.3. Important and incidental encounters
 
 ## 9. Interface
 9.1. Visual System
+
 9.1.1. HUD
+
 9.1.2. Menus
+
 9.1.3. Camera model Isometric 
+
 9.2. Control System – How does the game player control the game? What are the specific
+
 Commands?
+
 B - skill 
 A - dash
 RB/LB - abilities
@@ -197,5 +237,7 @@ Y - heavy attack
 
 
 ## 10. TODO
+
 10.1  Add a .gitignore to prevent adding files we don't want in this repo
+
 10.2 Specify control scheme once implemented  fully
