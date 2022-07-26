@@ -1,6 +1,8 @@
 # Team285
 Life is Like - Team 285 Game Camp Development GitHub
 
+Built using [Unreal Engine 5](https://www.unrealengine.com/en-US/download) (Ver 5.0.3)
+
 ## 1.1. Game Name: “Life Is Like”
 
 1.2. Tag line: “It’s one thing to know, it’s another to remember.”
@@ -192,3 +194,8 @@ Y - heavy attack
 9.3. Audio, music, sound effects Lo-Fi Hip Hop Fantasy Vibes
 9.4. Game Art – intended style Stylized Cell Shaded 3D
 9.5. Help System
+
+
+## 10. TODO
+10.1  Add a .gitignore to prevent adding files we don't want in this repo
+10.2 Specify control scheme once implemented  fully
